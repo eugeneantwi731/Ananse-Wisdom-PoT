@@ -112,3 +112,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+/iOSBuild/
+/iOSBuild_BackUpThisFolder_ButDontShipItWithYourGame/
